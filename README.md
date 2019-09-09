@@ -48,5 +48,5 @@ Also, DO NOT put any data on GitHub. All the data will be housed in the SQL Data
         └── viz.py
         
  References:
- Vishnu and this website 
+ Vishnu and the following website 
  https://medium.com/@rrfd/cookiecutter-data-science-organize-your-projects-atom-and-jupyter-2be7862f487e
