@@ -12,21 +12,21 @@ Also, DO NOT put any data on GitHub. All the data will be housed in the SQL Data
  
 # Basic Structure of this Repository:
 
-├── README.md                <- Front page of the project. This will be updated with major points/findings of the Project
+## README.md                <- Front page of the project. This will be updated with major points/findings of the Project
 │
-├── models                   <- This folder houses model predictions/summaries 
+## models                   <- This folder houses model predictions/summaries 
 │                        
 │
-├── notebooks                <- This folder houses R Markdown Files or Jupiter Notebooks documenting in detail student's code
+## notebooks                <- This folder houses R Markdown Files or Jupiter Notebooks documenting in detail student's code
 │                         
 │
-├── reports                  <- Reports folder contains report in pdf, LaTeX or HTML format
+## reports                  <- Reports folder contains report in pdf, LaTeX or HTML format
 │   └── figures              <- Generated figures.
 │
-├── requirements.txt         <- File for reproducing the environment. For Python
+## requirements.txt         <- File for reproducing the environment. For Python
 │                                `$ pip freeze > requirements.txt`
 │
-└── code                     <- This folder houses all the code
+## code                     <- This folder houses all the code
     ├── main.R               <- Main File to Execute the Pipeline. 
     │
     ├── custom_functions.R   <- Various custom functions written by the students.
