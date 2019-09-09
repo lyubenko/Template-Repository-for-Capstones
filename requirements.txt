@@ -1,0 +1,4 @@
+File for reproducing the environment. Should be here no matter which language you decide to code in but it is 
+particularly vital for Python code
+
+`$ pip freeze > requirements.txt`
