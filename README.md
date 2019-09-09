@@ -1,4 +1,4 @@
-# Stock_Ranking_with_Alternative_Data-
+# Stock_Ranking_with_Alternative_Data Project
 This repository houses Stock Ranking Modeling Pipeline developed by CMU students.
 
 # Notes to Students:
